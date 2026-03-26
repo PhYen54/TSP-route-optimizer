@@ -3,13 +3,13 @@
 Một ứng dụng Web đơn giản giúp bạn tự động tìm ra lộ trình đi chơi ngắn nhất qua nhiều địa điểm khác nhau, ứng dụng thuật toán giải quyết bài toán Người chào hàng (Traveling Salesman Problem - TSP).
 
 ## 📑 Mục lục 
-- [💡 Ý tưởng dự án](#ý-tưởng-dự-án)
-- [🧮 Giới thiệu về bài toán TSP](#giới-thiệu-về-bài-toán-tsp)
-- [🧠 Deep dive vào Thuật toán TSP & Hướng phát triển](#deep-dive-vào-thuật-toán-tsp--hướng-phát-triển)
-- [🛠️ Công nghệ sử dụng](#công-nghệ-sử-dụng)
-- [📂 Cấu trúc dự án](#cấu-trúc-dự-án)
-- [🚀 Implement](#implement)
-- [📝 Lời nói cuối (Về Vibe Coding))](#lời-nói-cuối-về-vibe-coding)
+- [💡 Ý tưởng dự án](#-ý-tưởng-dự-án)
+- [🧮 Giới thiệu về bài toán TSP](#-giới-thiệu-về-bài-toán-tsp)
+- [🧠 Deep dive vào Thuật toán TSP & Hướng phát triển](#-deep-dive-vào-thuật-toán-tsp--hướng-phát-triển)
+- [🛠️ Công nghệ sử dụng](#-công-nghệ-sử-dụng)
+- [📂 Cấu trúc dự án](#-cấu-trúc-dự-án)
+- [🚀 Implement](#-implement)
+- [📝 Lời nói cuối (Về Vibe Coding)](#-lời-nói-cuối-về-vibe-coding)
 
 ---
 ## 💡 Ý tưởng dự án
@@ -81,7 +81,7 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
-## Lời nói cuối (Về vibe coding)
+## 📝 Lời nói cuối (Về vibe coding)
 Các code Front end mình sử dụng Gemini pro là chính, quan điểm của mình về vibe coding là những gì AI làm tốt thì hãy để nó làm, những code mình không hài lòng về cấu trúc hoặc phong cách code thì mình sẽ sửa và viết lại
 
 Tuy nhiên với quy mô project này, mình thấy Gemini pro đã làm rất tốt, các bạn có thể xem đây là 1 application đơn giản khi học giải thuật, ứng dụng cho việc tìm lộ trình đi chơi tour 1 ngày tại 1 địa điểm du lịch nào đó hay 1 source code để hiểu 1 app web cơ bản sử dụng các công nghệ như HTML, CSS, Javascripts và Flask như thế nào.
