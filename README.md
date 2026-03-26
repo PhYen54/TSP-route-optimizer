@@ -6,7 +6,7 @@ Một ứng dụng Web đơn giản giúp bạn tự động tìm ra lộ trình
 - [💡 Ý tưởng dự án](#-ý-tưởng-dự-án)
 - [🧮 Giới thiệu về bài toán TSP](#-giới-thiệu-về-bài-toán-tsp)
 - [🧠 Deep dive vào Thuật toán TSP & Hướng phát triển](#-deep-dive-vào-thuật-toán-tsp--hướng-phát-triển)
-- [🛠️ Công nghệ sử dụng](#-công-nghệ-sử-dụng)
+- [🛠️ Công nghệ sử dụng](#tech)
 - [📂 Cấu trúc dự án](#-cấu-trúc-dự-án)
 - [🚀 Implement](#-implement)
 - [📝 Lời nói cuối (Về Vibe Coding)](#-lời-nói-cuối-về-vibe-coding)
@@ -40,7 +40,7 @@ Thuật toán Brute Force có độ phức tạp thời gian là $O(n!)$, nghĩa
 3. **Các thuật toán xấp xỉ khác (Approximation Algorithms):**
    Ví dụ như thuật toán Kiến (Ant Colony Optimization) hoặc Simulated Annealing cũng là những lựa chọn rất hay để thay thế khi bài toán mở rộng.
    
-## 🛠️ Công nghệ sử dụng
+## <a id="tech"></a> 🛠️ Công nghệ sử dụng
 Dự án sử dụng các công nghệ nhẹ nhàng nhưng mạnh mẽ để xây dựng trọn vẹn từ Frontend đến Backend:
 * **Frontend:** HTML5, CSS3, Vanilla JavaScript.
 * **Backend:** Python với framework **Flask** (để tạo Web Server và API nhận dữ liệu).
